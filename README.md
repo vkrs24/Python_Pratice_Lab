@@ -1,5 +1,5 @@
 # Python_Pratice_Lab
-#Basic Programs:
+# Basic Programs:
 In this section, you will find all the basic Python programming examples. So, explore the section and complete the basic stage of Python programming.
 
 1.Python program to add two numbers
