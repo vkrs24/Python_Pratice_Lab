@@ -31,3 +31,24 @@ In this section, you will find all the basic Python programming examples. So, ex
 14.Python Program for Sum of squares of first n natural numbers
 
 15.Python Program for cube sum of first n natural numbers
+
+
+# Array Programs:
+To scale up Array logic, try out the below-listed Python array programming examples. Here, you will find all the important Python examples that are related to the Python array concept.
+
+1.Python Program to find sum of array
+
+2.Python Program to find largest element in an array
+
+3.Python Program for array rotation
+
+3.Python Program for array rotation (left)
+
+4.Python Program for Reversal algorithm for array rotation
+
+5.Python Program to Split the array and add the first part to the end
+
+6.Python Program for Find reminder of array multiplication divided by n
+
+7.Python Program to check if given array is Monotonic
+
