@@ -52,3 +52,17 @@ To scale up Array logic, try out the below-listed Python array programming examp
 
 7.Python Program to check if given array is Monotonic
 
+
+# List Programs:
+Explore the below section and try out all the important Python List programming examples.
+
+1.Python program to interchange first and last elements in a list
+
+2.Python program to swap two elements in a list
+
+3.Python | Ways to find length of list
+
+4.Python | Ways to check if element exists in list
+
+5.Different ways to clear a list in Python
+
