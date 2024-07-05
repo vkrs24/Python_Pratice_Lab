@@ -66,3 +66,13 @@ Explore the below section and try out all the important Python List programming 
 
 5.Different ways to clear a list in Python
 
+6.Python | Reversing a List
+
+7.Python program to find sum of elements in list
+
+8.Python | Multiply all numbers in the list
+
+9.Python program to find smallest number in a list
+
+10.Python program to find largest number in a list
+
