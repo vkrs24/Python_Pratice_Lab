@@ -76,3 +76,12 @@ Explore the below section and try out all the important Python List programming 
 
 10.Python program to find largest number in a list
 
+11.Python program to find second largest number in a list
+
+12.Python program to find N largest elements from a list
+
+13.Python program to print even numbers in a list
+
+14.Python program to print odd numbers in a List
+
+15.Python program to print all even numbers in a range
