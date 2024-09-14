@@ -85,3 +85,25 @@ Explore the below section and try out all the important Python List programming 
 14.Python program to print odd numbers in a List
 
 15.Python program to print all even numbers in a range
+
+16.Python program to print all odd numbers in a range
+
+17.Python program to print positive numbers in a list
+
+18.Python program to print negative numbers in a list
+
+19.Python program to print all positive numbers in a range
+
+20.Python program to print all negative numbers in a range
+
+21.Remove multiple elements from a list in Python
+
+22.Python – Remove empty List from List
+
+23.Python | Cloning or Copying a list
+
+24.Python | Count occurrences of an element in a list
+
+25.Python | Remove empty tuples from a list
+
+26.Python | Sort the values of first list using second list
