@@ -13,7 +13,7 @@ def second_largest_number_in_a_list(arr):
     large=arr[0]
     cnt=0
     while(cnt!=2):
-        for index in range(0,len(arr)):
+        for index in range(len(arr)):
             if(large<arr[index]):
                 large=arr[index]
         cnt+=1
