@@ -114,3 +114,15 @@ Get a detailed list of Python Matrix examples and boost your understanding of ma
 1.Python program to add two Matrices
 
 2.Python program to multiply two matrices
+
+3.Adding and Subtracting Matrices in Python
+
+4.Transpose a matrix in Single line in Python
+
+5.Python program for Matrix Product
+
+6.Python | Matrix creation of n*n
+
+7.Python | Get Kth Column of Matrix
+
+8.Python – Vertical Concatenation in Matrix
