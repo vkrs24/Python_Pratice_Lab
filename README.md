@@ -126,3 +126,37 @@ Get a detailed list of Python Matrix examples and boost your understanding of ma
 7.Python | Get Kth Column of Matrix
 
 8.Python – Vertical Concatenation in Matrix
+
+# String Programs:
+If you are looking for Python programming examples that are based on the Python string concept, then scroll down to the below section and practice a wide range of Python string program examples.
+
+1.Python program to check if a string is palindrome or not
+
+2.Python program to check whether the string is Symmetrical or Palindrome
+
+3.Reverse words in a given String in Python
+
+4.Ways to remove i’th character from string in Python
+
+5.Python | Check if a Substring is Present in a Given String
+
+6.Python – Words Frequency in String Shorthands
+
+7.Python – Convert Snake case to Pascal case
+
+8.Find length of a string in python (4 ways)
+
+9.Python program to print even length words in a string
+
+10.Python program to accept the strings which contains all vowels
+
+11.Python | Count the Number of matching characters in a pair of string
+
+12.Remove all duplicates from a given string in Python
+
+13.Python – Least Frequent Character in String
+
+14.Python | Maximum frequency character in String
+
+15.Python | Program to check if a string contains any special character
+
