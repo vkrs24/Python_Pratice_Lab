@@ -9,9 +9,7 @@ def remove_duplicate(s):
     for i in range(len(s)):
         f=0
         for j in range(0,i):
-            if i==j:
-                continue
-            elif s[i]==s[j]:
+            if s[i]==s[j]:
                 f=1
                 break
         if f==0:
