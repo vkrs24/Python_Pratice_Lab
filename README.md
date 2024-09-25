@@ -160,3 +160,30 @@ If you are looking for Python programming examples that are based on the Python 
 
 15.Python | Program to check if a string contains any special character
 
+16.Find words which are greater than given length k.py
+
+17.Python program for removing i-th character from a string.py
+
+18.Python program to split and join a string.py
+
+19.Python Check if a given string is binary string or not.py
+
+20.Python program to find uncommon words from two Strings.py
+
+21.Python – Replace duplicate Occurrence in String.py
+
+22.Python – Replace multiple words with K.py
+
+23.Python Permutation of a given string using inbuilt function.py
+
+24.Python Check for URL in a String.py
+
+25.String slicing in Python to Rotate a String.py
+
+26.String slicing in Python to check if a string can become empty by recursive deletion.py
+
+27.Python – Find all duplicate characters in string.py
+
+28.Python – Replace all occurrences of a substring in a string.py
+
+
