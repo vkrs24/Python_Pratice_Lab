@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 22Sept2024
 # 19.Python | Check if a given string is binary string or not
 
@@ -19,4 +20,27 @@ def binary_string(s):
         print("Yes")
 
 binary_string("01010101010")
+=======
+# 22Sept2024
+# 19.Python | Check if a given string is binary string or not
+
+# Input: str = "01010101010"
+# Output: Yes
+
+# Input: str = "geeks101"
+# Output: No
+
+def binary_string(s):
+    cnt=0
+    for i in s:
+        if(i.isdigit()):
+            cnt+=1
+        else:
+            print("No")
+            break
+    if(cnt==len(s)):
+        print("Yes")
+
+binary_string("01010101010")
+>>>>>>> c646c3f14aced55b9d98f51205aad3f2c12562f2
 binary_string("geeks101")
