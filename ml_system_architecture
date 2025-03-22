@@ -1,0 +1,27 @@
+digraph {
+	A [label="Data Acquisition"]
+	B [label="Data Preprocessing"]
+	C [label="Machine Learning Models"]
+	D [label="Model Training & Validation"]
+	E [label="Prediction & Analysis"]
+	F [label="Deployment & Integration"]
+	G [label="User Interface"]
+	A1 [label="Genomic Datasets"]
+	A2 [label="Patient Records"]
+	A3 [label="Public Databases"]
+	A -> A1
+	A -> A2
+	A -> A3
+	C1 [label=KNN]
+	C2 [label="Naive Bayes"]
+	C3 [label="Decision Tree"]
+	C -> C1
+	C -> C2
+	C -> C3
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+	E -> F
+	F -> G
+}
